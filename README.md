@@ -1,4 +1,4 @@
-# Scripts and Utils
+# Bash modules, Scripts and Utils
 
 ### Automation scripts and bash helper modules
 
